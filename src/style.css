@@ -3,7 +3,15 @@
     padding: 0%;
 }
 nav {
-    background-color: aqua;
+    background-color: #696969;
     width: 100vw;
-    height: 55px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav h1 {
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
 }
